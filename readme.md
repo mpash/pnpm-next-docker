@@ -2,6 +2,8 @@
 
 ⚡️ For apps running Next.JS that want the fastest possible build time ⚡️
 
+<script id="asciicast-GTvkmtzB5cppO80S1xva8UuZL" src="https://asciinema.org/a/GTvkmtzB5cppO80S1xva8UuZL.js" async></script>
+
 ## Features
 
 - 🏔 Build on the [node:alpine](https://hub.docker.com/_/node) flavor, a trusted & well-maintained base image
@@ -10,7 +12,7 @@
 
 ## Usage
 
-- Copy the `Dockerfile` into your existing Next.JS app
+- Copy `Dockerfile` & `.dockerignore` into your existing Next.JS app
 - Add `{'output': 'standalone'}` to your `next.config.js` file
     - See `Dockerfile:28` for more details on if you should opt-out of this behavior
 
