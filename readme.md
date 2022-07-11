@@ -2,7 +2,7 @@
 
 ⚡️ For apps running Next.JS that want the fastest possible build time ⚡️
 
-<script id="asciicast-GTvkmtzB5cppO80S1xva8UuZL" src="https://asciinema.org/a/GTvkmtzB5cppO80S1xva8UuZL.js" async></script>
+[![asciicast](https://asciinema.org/a/GTvkmtzB5cppO80S1xva8UuZL.svg)](https://asciinema.org/a/GTvkmtzB5cppO80S1xva8UuZL)
 
 ## Features
 
